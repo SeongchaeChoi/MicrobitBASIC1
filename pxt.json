@@ -1,5 +1,5 @@
 {
-    "name": "마이크로비트 기본",
+    "name": "기본 블록 카테고리",
     "description": "",
     "dependencies": {
         "core": "*",
